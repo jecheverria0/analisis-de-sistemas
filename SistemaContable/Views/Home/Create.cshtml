@@ -1,0 +1,54 @@
+﻿@model SistemaContable.Models.Cuenta
+
+@{
+    ViewData["Title"] = "Crear Cuenta";
+}
+
+<h1>Crear Cuenta</h1>
+
+<h4>Cuenta</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div class="form-group">
+                <label asp-for="TipoCuenta" class="control-label"></label>
+                <input asp-for="TipoCuenta" class="form-control" />
+                <span asp-validation-for="TipoCuenta" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Banco" class="control-label"></label>
+                <input asp-for="Banco" class="form-control" />
+                <span asp-validation-for="Banco" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Numcuenta" class="control-label"></label>
+                <input asp-for="Numcuenta" class="form-control" />
+                <span asp-validation-for="Numcuenta" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tipomoneda" class="control-label"></label>
+                <input asp-for="Tipomoneda" class="form-control" />
+                <span asp-validation-for="Tipomoneda" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MontoApertura" class="control-label"></label>
+                <input asp-for="MontoApertura" class="form-control" />
+                <span asp-validation-for="MontoApertura" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Crear" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Cuentas">Volver a la lista</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

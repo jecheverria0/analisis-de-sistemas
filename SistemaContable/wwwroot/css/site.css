@@ -1,0 +1,32 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+/* Cambiar color de enlaces en la barra de navegación al pasar el mouse */
+.navbar-nav .nav-link:hover {
+    color: #ff6347; /* Color rojo tomate, cámbialo por el que desees */
+}
+
+/* Cambiar color de elementos de menú desplegable al pasar el mouse */
+.dropdown-item:hover {
+    background-color: #f8f9fa; /* Fondo claro, cámbialo por el que desees */
+    color: #ff6347; /* Color rojo tomate, cámbialo por el que desees */
+}

@@ -1,0 +1,117 @@
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaContable.csproj.AssemblyReference.cache
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaContable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaContable.AssemblyInfoInputs.cache
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaContable.AssemblyInfo.cs
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaContable.csproj.CoreCompileInputs.cache
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaContable.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaContable.RazorAssemblyInfo.cache
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaContable.RazorAssemblyInfo.cs
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\appsettings.json
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\SistemaContable.staticwebassets.runtime.json
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\SistemaContable.exe
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\SistemaContable.deps.json
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\SistemaContable.runtimeconfig.json
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\SistemaContable.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\SistemaContable.pdb
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\Oracle.EntityFrameworkCore.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\System.DirectoryServices.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\staticwebassets\msbuild.SistemaContable.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\staticwebassets\msbuild.build.SistemaContable.props
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SistemaContable.props
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SistemaContable.props
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\scopedcss\bundle\SistemaContable.styles.css
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\scopedcss\projectbundle\SistemaContable.bundle.scp.css
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaC.BC380574.Up2Date
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaContable.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\refint\SistemaContable.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaContable.pdb
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaContable.genruntimeconfig.cache
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\obj\Debug\net8.0\ref\SistemaContable.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\OracleBdd.dll
+C:\Users\Richy_Flame\Desktop\Nueva carpeta (2)\SistemaContable\SistemaContable\bin\Debug\net8.0\OracleBdd.pdb
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\appsettings.json
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\SistemaContable.staticwebassets.runtime.json
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\SistemaContable.exe
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\SistemaContable.deps.json
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\SistemaContable.runtimeconfig.json
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\SistemaContable.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\SistemaContable.pdb
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\Oracle.EntityFrameworkCore.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\System.DirectoryServices.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\OracleBdd.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\OracleBdd.pdb
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaContable.csproj.AssemblyReference.cache
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaContable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaContable.AssemblyInfoInputs.cache
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaContable.AssemblyInfo.cs
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaContable.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaContable.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaContable.RazorAssemblyInfo.cache
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaContable.RazorAssemblyInfo.cs
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\staticwebassets\msbuild.SistemaContable.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\staticwebassets\msbuild.build.SistemaContable.props
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SistemaContable.props
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SistemaContable.props
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\scopedcss\bundle\SistemaContable.styles.css
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\scopedcss\projectbundle\SistemaContable.bundle.scp.css
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaC.BC380574.Up2Date
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaContable.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\refint\SistemaContable.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaContable.pdb
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\SistemaContable.genruntimeconfig.cache
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\obj\Debug\net8.0\ref\SistemaContable.dll
+C:\Users\Jonathan Echeverria\Downloads\SistemaContable1\SistemaContable\SistemaContable\bin\Debug\net8.0\libman.json

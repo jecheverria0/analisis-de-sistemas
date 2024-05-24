@@ -1,0 +1,59 @@
+﻿@model IEnumerable<SistemaContable.Models.Cuenta>
+
+@{
+    ViewData["Title"] = "Cuentas";
+}
+
+<h1>Cuentas</h1>
+
+<p>
+    <a asp-action="Create">Crear nueva cuenta</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoCuenta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Banco)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Numcuenta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tipomoneda)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MontoApertura)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TipoCuenta)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Banco)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Numcuenta)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tipomoneda)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MontoApertura)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.CuentaId">Editar</a> |
+                    <a asp-action="Delete" asp-route-id="@item.CuentaId">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
